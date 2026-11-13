@@ -1,0 +1,16 @@
+{
+  "name": "nphies-claim-bundle-sample",
+  "description": "Offline NPHIES-oriented professional claim bundle with reference and amount checks.",
+  "topics": [
+    "healthcare",
+    "fhir",
+    "nphies",
+    "rcm",
+    "typescript"
+  ],
+  "priority": "P1",
+  "market": "GCC",
+  "sampleStatus": "ready-for-documented-offline-demo",
+  "productionReady": false,
+  "validationScope": "Local synthetic fixtures, documented sample rules, automated tests and type checks where applicable"
+}
